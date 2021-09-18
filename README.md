@@ -46,8 +46,8 @@ $ yarn or npm dev
 ## :clapper: Demontration
 
   <div style="display: flex;   flex-direction: column;
-  align-items: center; width: 100%">
-    <img alt="testegif" src="https://thumbs.gfycat.com/WhiteFineFugu.webp"  />    
+  align-items: center">
+    <img alt="testegif" src="https://thumbs.gfycat.com/WhiteFineFugu.webp" width= "100%"/>    
   </div>
 
 ---
