@@ -49,6 +49,7 @@ $ yarn or npm dev
   align-items: center;">
     <img alt="testegif" src="https://thumbs.gfycat.com/whitefinefugu-todoasks.webp"  />
     <img alt="testegif" src="https://thumbs.gfycat.com/InexperiencedSickGrassspider.webp"  />
+    <img alt="testegif" src="https://thumbs.gfycat.com/idealisticfrightenedchipmunk.webp"  />
   </div>
 
 ---
