@@ -47,9 +47,9 @@ $ yarn or npm dev
 
   <div style="display: flex;   flex-direction: column;
   align-items: center;">
-    <img alt="testegif" src="https://thumbs.gfycat.com/whitefinefugu-todoasks.webp"  />
+    <img alt="testegif" src="https://thumbs.gfycat.com/WhiteFineFugu.webp"  />
+    
     <img alt="testegif" src="https://thumbs.gfycat.com/InexperiencedSickGrassspider.webp"  />
-    <img alt="testegif" src="https://thumbs.gfycat.com/idealisticfrightenedchipmunk.webp"  />
   </div>
 
 ---
