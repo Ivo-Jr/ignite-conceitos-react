@@ -47,7 +47,7 @@ $ yarn or npm dev
 
   <div style="display: flex;   flex-direction: column;
   align-items: center">
-    <img alt="testegif" src="src/assets/movie/todoList.gif" width= "50%"/>    
+    <img alt="todoList" src="src/assets/movie/todoList.gif" width= "100%"/>    
   </div>
 
 ---
