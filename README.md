@@ -45,8 +45,7 @@ $ yarn or npm dev
 
 ## :clapper: Demontration
 
-  <div style="display: flex;   flex-direction: column;
-  align-items: center">
+  <div style="display: flex;   flex-direction: column; align-items: center">
     <img alt="todoList" src="src/assets/movie/todoList.gif" width= "100%"/>    
   </div>
 
