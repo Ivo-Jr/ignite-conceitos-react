@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#clapper-Demontration">Demontration</a>
+  <a href="#clapper-Demonstration">Demonstration</a>
 </p>
 
 
@@ -43,7 +43,7 @@ $ yarn or npm install
 $ yarn or npm dev
 ```
 
-## :clapper: Demontration
+## :clapper: Demonstration
 
   <div style="display: flex;   flex-direction: column; align-items: center">
     <img alt="todoList" src="src/assets/movie/todoList.gif" width= "100%"/>    
